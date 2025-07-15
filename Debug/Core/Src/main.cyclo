@@ -1,0 +1,14 @@
+../Core/Src/main.c:172:6:display_digit_1	2
+../Core/Src/main.c:179:6:display_digit_2	2
+../Core/Src/main.c:187:6:close_disp_1	1
+../Core/Src/main.c:193:6:close_disp_2	1
+../Core/Src/main.c:199:6:start_up	3
+../Core/Src/main.c:226:6:bottom_row	6
+../Core/Src/main.c:276:6:get_digit_and_write_to_disp	3
+../Core/Src/main.c:320:5:main	12
+../Core/Src/main.c:449:6:SystemClock_Config	4
+../Core/Src/main.c:507:13:MX_ETH_Init	2
+../Core/Src/main.c:556:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:591:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:626:13:MX_GPIO_Init	1
+../Core/Src/main.c:726:6:Error_Handler	1
